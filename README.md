@@ -1,1 +1,2 @@
-# employee-directory-react
+# Employee Directory
+

@@ -72,7 +72,7 @@ const DataArea = () => {
         filteredUsers: results.data.results
       });
     });
-  }, [developerState]);
+  }, []);
    
   const handleSearchChange = event => {
     const filter = event.target.value;

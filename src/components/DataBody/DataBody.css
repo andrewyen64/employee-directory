@@ -1,0 +1,6 @@
+.name-cell{
+    background-color:  rgb(44, 199, 250);
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+}
